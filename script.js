@@ -1,1 +1,4 @@
-console.log("Hello")
+function message () {
+  console.log("Hey this works!");
+}
+message();
